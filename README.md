@@ -2,10 +2,12 @@
 A quadris game for two players to compete against each other.
 
 The game supports the following commands
- left moves the current block one cell to the left. If this is not possible (left edge of the board,
-or block in the way), the command has no eect.
+ left moves the current block one cell to the left. 
+
  right as above, but to the right.
+
  down as above, but one cell downward.
+
  clockwise rotates the block 90 degrees clockwise, as described earlier. If the rotation cannot
 be accomplished without coming into contact with existing blocks, the command has no eect.
  counterclockwise as above, but counterclockwise.
