@@ -24,3 +24,5 @@ leveldown: Decreases the difficulty level of the game by one
 I, J, L, O, S, Z, T: these commands replace the current undropped block with the stated block. 
 
 restart: Clears the board and starts a new game
+
+![Image text](https://github.com/koileee/Biquadris/blob/master/game.png)
