@@ -25,4 +25,4 @@ I, J, L, O, S, Z, T: these commands replace the current undropped block with the
 
 restart: Clears the board and starts a new game
 
-![Image text](https://github.com/koileee/Biquadris/blob/master/game.png)
+![Image](https://github.com/koileee/Biquadris/blob/master/images/game.png)
