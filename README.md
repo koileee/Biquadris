@@ -1,7 +1,7 @@
 # Biquadris
 A quadris game for two players to compete against each other.
 
-In the terminal, type <b> make </b> then type ./biquadris to start the game
+In the terminal, type <b> make </b> then type <b> ./biquadris </b> to start the game
 
 The game supports the following commands:
 
